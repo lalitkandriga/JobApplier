@@ -1,0 +1,14 @@
+{
+  "name": "GreetBot",
+  "description": "A bot that greets you by your name !",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6651.33497",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
